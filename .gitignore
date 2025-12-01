@@ -4,10 +4,8 @@
 #///////////////////////////
 library/
 temp/
-local/
 build/
 profiles/
-native
 .vs/
 #//////////////////////////
 # NPM
